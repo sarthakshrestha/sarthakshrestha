@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-- 🌱 I’m currently learning more on JavaScript and ReactJS
+- 🌱 I’m currently learning more on JavaScript, ReactJS & ML technologies
 - 🔭 I'm working on being a front-end web-developer
-- ⚡ I'm a huge tech-head and love listening to music!
+- 🎵 I'm a huge tech-head and I love listening to music!
 
 
 <!--
