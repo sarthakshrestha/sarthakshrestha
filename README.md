@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning more about React Native<br>👯 I’m working on being a full stack developer<br>🎵 I'm a huge tech-head and I love listening to music!<br>
+🌱 I’m currently learning more on Angular<br>👯 I’m working on being a full stack developer<br>🎵 I'm a huge tech-head and I love listening to music!<br>
 
 # Tech Stack:
 
